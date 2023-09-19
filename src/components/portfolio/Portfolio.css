@@ -60,12 +60,15 @@ border-radius: 2rem;
      margin-left: 10rem;
     }
     .project_item{ 
-        width: 345px;
+        width: 344px;
    
     }
     .project_item-image{
       
         height: 55%;
         position: relative;
+    }
+    .project_item-image video {
+      height: 150px;  
     }
 }
