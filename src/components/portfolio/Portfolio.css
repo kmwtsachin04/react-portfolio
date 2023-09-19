@@ -7,7 +7,7 @@
 .project_item{
     background: var(--color-bg-variant);
     padding: 1.3rem;
-border-radius: 2rem;
+     border-radius: 2rem;
     border: 1px soli transparent;
     transition:  var(--transition);
 }
@@ -24,7 +24,7 @@ border-radius: 2rem;
     border-radius: 1rem;
 }
 .project_item h3{
-    margin: 1.2rem 0 2rem;
+    margin: 1.1rem 0 0.8rem;
 }
 .project_item-cta{
     display: flex;
@@ -69,6 +69,6 @@ border-radius: 2rem;
         position: relative;
     }
     .project_item-image video {
-      height: 150px;  
+        height: 150px;
     }
 }

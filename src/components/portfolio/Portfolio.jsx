@@ -120,7 +120,7 @@ const Portfolio = () => {
            <div className="project_item-image">
             <video src={IMG4} controls autoPlay loop></video>
            </div>
-             <h3>Fully Animation and Fully Responsive using HTML, CSS & Javascript.</h3>
+             <h3>Fully Animation & Responsive using HTML, CSS & Javascript.</h3>
              <div className="project_item-cta">
              <a href="https://github.com/kmwtsachin04/Animation" className='btn' target="_blank">GitHub</a>
              <a href="https://kmwtsachin04.github.io/Animation/" className='btn btn-primary' target="_blank">Live Demo</a>
