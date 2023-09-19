@@ -132,8 +132,8 @@ const Portfolio = () => {
            </div>
              <h3>Create a Poetfolio Fully animated using HTML, CSS & JavaScript.</h3>
              <div className="project_item-cta">
-             <a href="https://github.com/kmwtsachin04/Portfolio" className='btn' target="_blank">GitHub</a>
-             <a href="https://kmwtsachin04.github.io/Portfolio/" className='btn btn-primary' target="_blank">Live Demo</a>
+             <a href="https://github.com/kmwtsachin04/Animation-Portfolio" className='btn' target="_blank">GitHub</a>
+             <a href="https://kmwtsachin04.github.io/Animation-Portfolio/" className='btn btn-primary' target="_blank">Live Demo</a>
              </div>
       </article>
       {/* <article  className='project_item'>
