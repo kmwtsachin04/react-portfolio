@@ -69,6 +69,16 @@ header{
     header{
         height: 80vh;
     }
+    .me img{
+        background-color: var(--color-primary), cover;
+        width: 19rem;
+        position: absolute;
+        left: calc(50% - 7rem);
+        margin-top: 2rem;
+        border-radius: 10rem 10rem 0 0 ;
+        overflow: hidden;
+        padding: 5rem 1.5rem 1.5rem 1.5rem;
+    }
 }
 
 /* ---media queries for small devices ---*/
