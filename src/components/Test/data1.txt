@@ -1,7 +1,7 @@
 const data = [
     {
         avtar: Avt1,
-        name: "Sandeep Mahawar",
+        name: "Vijay Choudhay",
         review: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam,
             explicabo, doloremque fugiat dicta odit dolorum quibusdam totam
             delectus, possimus ad nam. Veniam neque recusandae voluptatibus
@@ -9,7 +9,7 @@ const data = [
     },
      {
         avtar: Avt2,
-        name: "Rajveer Kumawat",
+        name: "Dharmveer Choudhay",
         review: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam,
             explicabo, doloremque fugiat dicta odit dolorum quibusdam totam
             delectus, possimus ad nam. Veniam neque recusandae voluptatibus
@@ -17,7 +17,7 @@ const data = [
     },
      {
         avtar: Avt3,
-        name: "Tanisque Sharma",
+        name: "Sandeep Mahawar",
         review: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam,
             explicabo, doloremque fugiat dicta odit dolorum quibusdam totam
             delectus, possimus ad nam. Veniam neque recusandae voluptatibus
@@ -25,10 +25,27 @@ const data = [
     },
      {
         avtar: Avt4,
-        name: "Rahul Kumawat",
+        name: "Anandpal Singh Rathore",
         review: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam,
             explicabo, doloremque fugiat dicta odit dolorum quibusdam totam
             delectus, possimus ad nam. Veniam neque recusandae voluptatibus
             facilis? Ipsa tenetur expedita fugiat?"
     },
+    {
+      avatar: AVTR6,
+      name: "Rajveer Kumawat",
+      review: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam,
+            explicabo, doloremque fugiat dicta odit dolorum quibusdam totam
+            delectus, possimus ad nam. Veniam neque recusandae voluptatibus
+            facilis? Ipsa tenetur expedita fugiat?'
+  },
+  {
+      avatar: AVTR7,
+      name: "Tanishq Sharma",
+      review: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam,
+            explicabo, doloremque fugiat dicta odit dolorum quibusdam totam
+            delectus, possimus ad nam. Veniam neque recusandae voluptatibus
+            facilis? Ipsa tenetur expedita fugiat?'
+  },
+
 ]

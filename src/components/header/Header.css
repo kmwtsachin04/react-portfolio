@@ -57,6 +57,12 @@ header{
     font-weight: 300;
     font-size: 0.9rem;
 }
+.text-lightt{
+    color: var(--color-primary);
+}
+.role{
+    color: white;
+}
 
 /*---- media queries for medium devices--- */
 @media screen  and (max-width: 1024px){
