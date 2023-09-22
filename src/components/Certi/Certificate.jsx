@@ -10,7 +10,7 @@ import IMG6 from '../../assets/Certificate6.jpg'
 
 
 
-const Portfolio = () => {
+const Certificate = () => {
   return (
   <section id='certificate'>
        <h5>My Work</h5>
@@ -75,4 +75,4 @@ const Portfolio = () => {
   )
 }
 
-export default Portfolio
+export default Certificate
