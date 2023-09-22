@@ -19,8 +19,8 @@
     border-radius: 1rem;
     overflow: hidden;
 }
-.project_item-image video{
-    height: 140px;
+.project_item-image{
+    height: 200px;
     border-radius: 1rem;
 }
 .project_item h3{
@@ -68,7 +68,5 @@
         height: 55%;
         position: relative;
     }
-    .project_item-image video {
-        height: 150px;
-    }
+    
 }
