@@ -42,8 +42,8 @@ const Portfolio = () => {
            </div>
              <h3>Create a Pokemon Details Website using API & ReactJs.</h3>
              <div className="project_item-cta">
-             <a href="https://www.github.com/" className='btn' target="_blank">GitHub</a>
-             <a href="https://www.dribble.com/" className='btn btn-primary' target="_blank">Live Demo</a>
+             <a href="https://github.com/kmwtsachin04/Pokedex" className='btn' target="_blank">GitHub</a>
+             <a href="https://github.com/kmwtsachin04/Pokedex" className='btn btn-primary' target="_blank">Live Demo</a>
              </div>
       </article>
       <article  className='project_item'>
