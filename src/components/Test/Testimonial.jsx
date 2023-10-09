@@ -10,11 +10,12 @@ import AVTR7 from "../../assets/avatar7.jpg";
 
 
 // import Swiper core and required modules
-import {Pagination} from 'swiper/modules'
+import {Pagination } from 'swiper/modules'
 import { Swiper, SwiperSlide } from 'swiper/react';
 
 // Import Swiper styles
-import 'swiper/swiper-bundle.css'; // Use 'swiper/swiper-bundle.css' for the bundled version of Swiper
+import 'swiper/swiper-bundle.css';
+// Use 'swiper/swiper-bundle.css' for the bundled version of Swiper
 
 
 const data = [
@@ -65,7 +66,7 @@ const Testimonial = () => {
 
       <Swiper className="container testimonials_container"  
       // install Swiper modules
-      modules={[Pagination]}
+      modules={[Pagination,]}
       spaceBetween={40}
       slidesPerView={1}
       Pagination={{ clickable: true }}
@@ -85,6 +86,7 @@ const Testimonial = () => {
             )
           })
         }
+        
       </Swiper>
     </section>
   );

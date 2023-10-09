@@ -1,6 +1,7 @@
 {
  
   "name": "react-portfolio",
+ 
   "homepage": "https://kmwtsachin04.github.io/react-portfolio",
  
   "version": "0.1.0",
@@ -40,7 +41,7 @@
   "react-simple-typewriter": "^5.0.1",
  
    
-  "swiper": "^10.2.0",
+  "swiper": "^10.3.0",
  
    
   "typewriter-effect": "^2.20.1",
